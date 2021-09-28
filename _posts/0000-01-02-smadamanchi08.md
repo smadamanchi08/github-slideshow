@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I am trying to learn more about github :P :P :P 
+ ![image](https://user-images.githubusercontent.com/91167804/135008436-bd960506-fbd9-4717-9172-12bbbf9ad03c.png)
+
 Use the left arrow to go back!
